@@ -1,0 +1,644 @@
+[
+  {
+    "Slug": "chambre-sextuple-vue-cher---4-à-6-pers",
+    "Type de chambre": "Chambre Sextuple vue Cher - 4 à 6 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "le-grand-hôtel",
+    "min de personne": 4,
+    "max de personne": 6,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/S7G6yWRdhFWR34baeWSiautvs8k.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-quadruple-vue-cher---3-à-4-pers",
+    "Type de chambre": "Chambre Quadruple vue Cher - 3 à 4 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "le-grand-hôtel",
+    "min de personne": 3,
+    "max de personne": 4,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/2ZztCOObm8fUSqfZ4axuwjRlowA.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-quadruple---3-à-4-pers",
+    "Type de chambre": "Chambre Quadruple - 3 à 4 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "le-grand-hôtel",
+    "min de personne": 3,
+    "max de personne": 4,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/yNB6djty67dtl2P2nioyHn1Oj7Q.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/drYwoeipElmgGtzfv0owxmVb1NY.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/EHlS5PuKaKZJqqpjcXqGKDPFSAk.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-triple-vue-cher---2-à-3-pers",
+    "Type de chambre": "Chambre Triple vue Cher - 2 à 3 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "le-grand-hôtel",
+    "min de personne": 2,
+    "max de personne": 3,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/DAjEIuwcc7YqdOXphCKbVcKJBE.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/tL5ruUDFZVgP9be1M67DAWZQ.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-triple---2-à-3-pers",
+    "Type de chambre": "Chambre Triple - 2 à 3 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "le-grand-hôtel",
+    "min de personne": 2,
+    "max de personne": 3,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/tL5ruUDFZVgP9be1M67DAWZQ.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/DAjEIuwcc7YqdOXphCKbVcKJBE.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-double-vue-cher---1-à-2-pers",
+    "Type de chambre": "Chambre Double vue Cher - 1 à 2 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "le-grand-hôtel",
+    "min de personne": 1,
+    "max de personne": 2,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/HcIR5ltOJWvurMjN2ttgjObaCJM.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/QJQLCmwyEaEzAjZczIWnjAzS0.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-double---1-a-2-pers-pagodes",
+    "Type de chambre": "Chambre Double - 1 à 2 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "le-grand-hôtel",
+    "min de personne": 1,
+    "max de personne": 2,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/dHCCFjAB9lIMVY0KAEgcMuEA16c.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/zGzXG76x0SjYluS8sh5E1vGpyQ.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "appartement-1-chambre-psh---1-2-pers",
+    "Type de chambre": "Appartement 1 chambre PSH - 1-2 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-hameaux-de-beauval",
+    "min de personne": 1,
+    "max de personne": 2,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/BjU4qgR1rMxYBVYu9U1KsJ9P9YM.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/Sz9g23ZB2HLDp9sKKbIuP0eMw.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "appartement-2-chambres---1-8-pers",
+    "Type de chambre": "Appartement 2 chambres - 1-8 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-hameaux-de-beauval",
+    "min de personne": 1,
+    "max de personne": 8,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/7mN45qc8AN3WtEiIXgPTkbbZSM.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/nwInU6Gs4SjYI8EoknaNarnM8FE.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/ZdF486lKgEeATwkQcGx4M6avjYc.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/mY4wURz0wplHmSZ9sYb6NcHlpw.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/xSb7Rii6YSe9RHE8lQe3mHUHi6k.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "duplex-4-pièces---1-8-pers",
+    "Type de chambre": "Duplex 4 pièces - 1-8 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-hameaux-de-beauval",
+    "min de personne": 1,
+    "max de personne": 8,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/oV3jQQxegIFdnMPl5nt3aKi7E.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/73JOP7OhBQsLPhY6UJwInSvx6pc.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/nKKUjkr39uoF9anN82sMNZ0WM.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/7Z1D190QepN9MrVkM9wTOGnuxw.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "appartement-3-chambres---1-6-pers",
+    "Type de chambre": "Appartement 3 chambres - 1-6 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-hameaux-de-beauval",
+    "min de personne": 1,
+    "max de personne": 6,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/XMKEA6wPKBA4AgkRDeKoNNUBfA.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/5KOyhecTskt4s6za2Zr6crLmfA.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/POfZsJL92a7nlgmQ5MSpzhKCHkE.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "appartement-2-chambres---1-4-pers",
+    "Type de chambre": "Appartement 2 chambres - 1-4 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-hameaux-de-beauval",
+    "min de personne": 1,
+    "max de personne": 4,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/GPyQNUku3zET6PwTvjRvdQcyvYQ.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/wq4DVO7n8XNdmcsf7uY6FoPCjA.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/EvgIccG8RbEe1y7lStY0H3efYY.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/IzcllbLRaDYmLKmeh3JNFiD4Qlk.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "appartement-1-chambre---1-4-pers",
+    "Type de chambre": "Appartement 1 chambre - 1-4 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-hameaux-de-beauval",
+    "min de personne": 1,
+    "max de personne": 4,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/irpZBMELZ9OWatZwhwE4T46taTU.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/UBd4ZIqlWpuu6XiQtkpGN7LmWrQ.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/OfjV9k7rQZgnWLbuQLkLOqcLKs.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/Ezlg5L1d0pNU5AvDkkn1dYTWEg.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "junior-suite---1-à-5-pers",
+    "Type de chambre": "Junior Suite - 1 à 5 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-jardins-de-beauval",
+    "min de personne": 1,
+    "max de personne": 5,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/q7a7Q8StwZHesmLWSQfQUValUyw.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/PXRLIyEizf3dxYxIc2pNRHW2G4.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-supérieure-quadruple---vue-lac---1-à-4-pers",
+    "Type de chambre": "Chambre Supérieure Quadruple - Vue lac - 1 à 4 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-jardins-de-beauval",
+    "min de personne": 1,
+    "max de personne": 4,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/Rj5mg7JI9m8jGsRJZeUGPEdOXeM.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/c7i8htjFPZ1D5axfP2kTFvGZis.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/rO0wkpYqP290FJBbWJA0MzEk3Hk.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-supérieure-triple---vue-lac---1-à-3-pers",
+    "Type de chambre": "Chambre Supérieure Triple - Vue lac - 1 à 3 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-jardins-de-beauval",
+    "min de personne": 1,
+    "max de personne": 3,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/36OijmVBA8JfJUfEVLk4v5orJkM.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/sEGOIMRH93ZFTGqzWJA3LjtiGQ.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/eg7mhK9M1riwcovbhos7g4GOzf4.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-supérieure-triple",
+    "Type de chambre": "Chambre Supérieure Triple - 1 à 3 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-jardins-de-beauval",
+    "min de personne": 1,
+    "max de personne": 3,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/36OijmVBA8JfJUfEVLk4v5orJkM.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/sEGOIMRH93ZFTGqzWJA3LjtiGQ.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/eg7mhK9M1riwcovbhos7g4GOzf4.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-supérieure-quadruple-ou-quintuple",
+    "Type de chambre": "Chambre Supérieure Quadruple ou Quintuple",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-pagodes-de-beauval",
+    "min de personne": 1,
+    "max de personne": 5,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/1Xjfis7KNlLDqlS6xV3khvmnu8Y.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/c7i8htjFPZ1D5axfP2kTFvGZis.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/rO0wkpYqP290FJBbWJA0MzEk3Hk.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-supérieure-double-ou-tripe---1-à-3-pers",
+    "Type de chambre": "Chambre Supérieure Double ou Tripe - 1 à 3 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-pagodes-de-beauval",
+    "min de personne": 1,
+    "max de personne": 3,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/AuUzXJ6BpUceyg8zfBwY9LMn2U.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/j9myOnJ4ksbF4Jnki1AnRhN1U.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-quadruple-ou-quintuple---1-à-5-pers",
+    "Type de chambre": "Chambre Quadruple ou Quintuple - 1 à 5 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-pagodes-de-beauval",
+    "min de personne": 1,
+    "max de personne": 5,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/P90u8D3HXKewyMXqQz4RJxTc80.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-confort-double-ou-triple---1-à-3-pers",
+    "Type de chambre": "Chambre Confort Double ou Triple - 1 à 3 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-pagodes-de-beauval",
+    "min de personne": 1,
+    "max de personne": 3,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/076SKNoHIIuwRMDIQotmgUDk.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/PsqylWCY7EbyCEOxYlD60zb4.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/7S0LXGdLxmkb2bH2HBr6o4UBFDA.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-quadruple---vue-sur-le-cher---1-à-4-pers",
+    "Type de chambre": "Chambre Quadruple - Vue sur le Cher - 1 à 4 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-rivages-de-beauval",
+    "min de personne": 1,
+    "max de personne": 4,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/tyPOhBsdpSbnuh9gO9oe5NaJyCg.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/ANMpTCHaJ7trGuuWMGjgumB9qvQ.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-quadruple---1-à-4-pers",
+    "Type de chambre": "Chambre Quadruple - 1 à 4 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-rivages-de-beauval",
+    "min de personne": 1,
+    "max de personne": 4,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/tyPOhBsdpSbnuh9gO9oe5NaJyCg.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-double---vue-sur-le-cher---1-à-2-pers",
+    "Type de chambre": "Chambre Double - Vue sur le Cher - 1 à 2 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-rivages-de-beauval",
+    "min de personne": 1,
+    "max de personne": 2,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/CGJySXkd1yEr7kW7xi9Zb1Z44c.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/Hj1KO0JMNAwI1gA5xkumg9wZiNI.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-double---1-à-2-pers",
+    "Type de chambre": "Chambre Double - 1 à 2 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-rivages-de-beauval",
+    "min de personne": 1,
+    "max de personne": 2,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/FYuHcvhBXv61KAYlhzvZxuL9qJY.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "Slug": "chambre-quintuple---1-à-5-pers",
+    "Type de chambre": "Chambre Quintuple - 1 à 5 pers",
+    "Content": "",
+    "Prix": 0,
+    "Options": "Option 1",
+    "Hôtel": "les-hauts-de-beauval",
+    "min de personne": 1,
+    "max de personne": 5,
+    "Gallery": [
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/cz9fNcv6ofIILSct3q2yLhUlkQ.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/0PzvdIGMr8Bzm7MTViEyJko.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/TsCuQpLsC0CnRrddbry1ujcvA.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/uIvhM8GXDN6Hx9ilW1x0O9gqAXw.jpg"
+        }
+      },
+      {
+        "Image": {
+          "url": "https://framerusercontent.com/images/59vGqFliDzlGDqDcPnUGdrseI.webp"
+        }
+      }
+    ]
+  }
+]
